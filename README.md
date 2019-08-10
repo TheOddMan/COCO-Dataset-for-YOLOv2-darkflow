@@ -1,5 +1,5 @@
-getImage.py
-You can use it to download coco images from coco json file.
+
+You can use getImage.py to download coco images from coco json file.
 
 Sometimes you will get ConnectionResetError because of the remote server resctriction.
 If this program is blocked, it will "ignore that image" and sleep 1 min and then continute to run.
